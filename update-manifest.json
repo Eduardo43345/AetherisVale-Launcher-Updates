@@ -5,7 +5,7 @@
     "version": "A1.0",
     "notes": "Versão pública A1.0. O atualizador instala a nova cópia em %APPDATA%\\AetherisVale Launcher, aguarda o fechamento do launcher antigo e abre o novo executável a partir desse local. A instância do Minecraft permanece em Documentos\\AetherisVale por padrão e pode ser alterada nas configurações.",
     "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0/AetherisVale-Launcher-A1.0.exe",
-    "sha256": "86b54af0b4843df983afb2a6c89b499fdd004d13733ebc4b7fdd7dbe7bbce23d",
+    "sha256": "8a3942455a9434109f2528cc33005f0c9b8e0ceb6afb595e2c8077c4fbbd7604",
     "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0"
   },
   "modpack": {
