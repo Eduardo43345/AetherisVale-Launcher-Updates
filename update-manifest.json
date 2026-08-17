@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T06:31:00.000Z",
+  "generatedAt": "2026-08-17T16:00:00.000Z",
   "launcher": {
-    "version": "0.2.6",
-    "notes": "Correção do atalho da distribuição Windows: o executável compilado é iniciado diretamente e o pacote não depende de node_modules, Node.js ou Electron instalado no computador do participante.",
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.6/AetherisVale-Launcher-0.2.6.exe",
-    "sha256": "0bcadbf10c1e088fbfd2337d84634a2d274ad142d22c9dab56afba29b60b45c2",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.6"
+    "version": "0.2.7",
+    "notes": "Correção definitiva do erro durante a instalação dos mods: caches CurseForge agora aceitam name, fileName, filename e file_name, com fallback seguro por projectID/fileID. O pacote foi testado com instalação limpa e os 134 mods do AetherisVale 1.0.1.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.7/AetherisVale-Launcher-0.2.7.exe",
+    "sha256": "49240851d2ed911f977699b8a2b0b458bba4ecf9f051c164c3718c58e5b156c9",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.7"
   },
   "modpack": {
     "name": "AetherisVale 1.0.1",
     "version": "1.0.1",
     "curseForgeFileId": 8633180,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.6/AetherisVale-1.0.1-v0.2.6.zip",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.7/AetherisVale-1.0.1-v0.2.7.zip",
     "sha256": "f39fa59df7af455c27a73428b350441a7d2ecd6b90a9eabcf24ca7540ac0c82c",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.6"
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.7"
   },
   "extraMods": [],
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
