@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T18:00:00.000Z",
+  "generatedAt": "2026-08-17T19:00:00.000Z",
   "launcher": {
-    "version": "0.2.9",
-    "notes": "Build de diagnóstico baseada nos padrões do Prism Launcher: captura persistente do log do Minecraft, resumo da causa real quando o processo termina com código 1, sanitização de tokens e argumentos JVM NeoForge corrigidos.",
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.9/AetherisVale-Launcher-0.2.9.exe",
-    "sha256": "84b338dd4274d0d14e8e519588e088af7554b1df1f0c37f304ca27b426210d8d",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.9"
+    "version": "0.2.10",
+    "notes": "Correção confirmada pelo log do usuário: Java 11 incompatível substituído por seleção obrigatória de Java 21 de 64 bits; correção de -Xmx6144G para -Xmx6144M; interface mostra a versão Java selecionada e bloqueia o lançamento quando não há Java 21.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.10/AetherisVale-Launcher-0.2.10.exe",
+    "sha256": "a9156084862ed4a60ac27a9d78b7fd9254664f464392141359ed1f102f62005f",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.10"
   },
   "modpack": {
     "name": "AetherisVale 1.0.1",
     "version": "1.0.1",
     "curseForgeFileId": 8633180,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.9/AetherisVale-1.0.1-v0.2.9.zip",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.10/AetherisVale-1.0.1-v0.2.10.zip",
     "sha256": "f39fa59df7af455c27a73428b350441a7d2ecd6b90a9eabcf24ca7540ac0c82c",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.9"
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.10"
   },
   "extraMods": [],
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
