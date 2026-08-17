@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T04:16:00.000Z",
+  "generatedAt": "2026-08-17T04:20:00.000Z",
   "launcher": {
-    "version": "0.2.0",
-    "notes": "Primeiro release público do launcher com atualização remota, aba de participantes e painel administrativo.",
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.0/AetherisVale-Launcher-0.2.0.exe",
-    "sha256": "0e8e8cd637b746d89396f29ae0fcdc516e6de94b92529b193897afc703ab7112",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.0"
+    "version": "0.2.1",
+    "notes": "Correção do endpoint público do manifesto e melhorias no sistema de atualização.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.1/AetherisVale-Launcher-0.2.1.exe",
+    "sha256": "f72cef6226a1e6e1ef78dfc67fee24ce8c4f4577116815831e1b940f8be2d552",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.1"
   },
   "modpack": {
     "name": "AetherisVale 1.0.1",
     "version": "1.0.1",
     "curseForgeFileId": 8633180,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.0/AetherisVale-1.0.1.zip",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.1/AetherisVale-1.0.1-v0.2.1.zip",
     "sha256": "f39fa59df7af455c27a73428b350441a7d2ecd6b90a9eabcf24ca7540ac0c82c",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.0"
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.1"
   },
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
 }
