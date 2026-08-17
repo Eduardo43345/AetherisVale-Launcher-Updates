@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T05:18:00.000Z",
+  "generatedAt": "2026-08-17T06:21:44.000Z",
   "launcher": {
-    "version": "0.2.4",
-    "notes": "Correções finais: download separado do jogo, estados Baixar/Atualizar/Jogar/Fechar, tratamento de código 1, Java automático, diagnóstico completo e mods extras opcionais.",
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.4/AetherisVale-Launcher-0.2.4.exe",
-    "sha256": "f592b01c7db3ccccc594ddcd85b884b8ed824a1e8491bb57371afe4ed8286557",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.4"
+    "version": "0.2.5",
+    "notes": "Correções de progresso real: downloads individuais dos mods com nomes reais, barra separada das bibliotecas do Minecraft, estados Baixar/Atualizar/Jogar/Fechar, timeouts contra carregamento indefinido, Java automático e diagnóstico completo.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.5/AetherisVale-Launcher-0.2.5.exe",
+    "sha256": "05b4a6da89cc678d3d56dcb460f3713ed22c4871bf62b6780857fcd050629486",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.5"
   },
   "modpack": {
     "name": "AetherisVale 1.0.1",
     "version": "1.0.1",
     "curseForgeFileId": 8633180,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.4/AetherisVale-1.0.1-v0.2.4.zip",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.5/AetherisVale-1.0.1-v0.2.5.zip",
     "sha256": "f39fa59df7af455c27a73428b350441a7d2ecd6b90a9eabcf24ca7540ac0c82c",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.4"
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.5"
   },
   "extraMods": [],
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
