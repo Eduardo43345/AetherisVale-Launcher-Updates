@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T00:00:00.000Z",
+  "generatedAt": "2026-08-17T04:16:00.000Z",
   "launcher": {
     "version": "0.2.0",
-    "notes": "Versão inicial com atualização remota, aba de participantes e painel administrativo.",
-    "assetUrl": "",
-    "sha256": "",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases"
+    "notes": "Primeiro release público do launcher com atualização remota, aba de participantes e painel administrativo.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.0/AetherisVale-Launcher-0.2.0.exe",
+    "sha256": "0e8e8cd637b746d89396f29ae0fcdc516e6de94b92529b193897afc703ab7112",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.0"
   },
   "modpack": {
     "name": "AetherisVale 1.0.1",
     "version": "1.0.1",
     "curseForgeFileId": 8633180,
-    "assetUrl": "https://www.curseforge.com/api/v1/mods/1601456/files/8633180/download",
-    "sha256": "",
-    "releaseUrl": "https://www.curseforge.com/minecraft/modpacks/aetherisvale-rp/files/8633180"
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/v0.2.0/AetherisVale-1.0.1.zip",
+    "sha256": "f39fa59df7af455c27a73428b350441a7d2ecd6b90a9eabcf24ca7540ac0c82c",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/v0.2.0"
   },
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
 }
