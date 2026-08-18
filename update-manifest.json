@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "generatedAt": "2026-08-17T20:00:00.000Z",
   "launcher": {
-    "version": "A1.0",
-    "notes": "Versão pública A1.0. O atualizador instala a nova cópia em %APPDATA%\\AetherisVale Launcher, aguarda o fechamento do launcher antigo e abre o novo executável a partir desse local. A instância do Minecraft permanece em Documentos\\AetherisVale por padrão e pode ser alterada nas configurações.",
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0/AetherisVale-Launcher-A1.0.exe",
-    "sha256": "4e42caf57faf884b6f9e6999c314529ac882b79b3afdb73695cd0d7a773faf4c",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0"
+    "version": "A1.0.1",
+    "notes": "Versão pública A1.0.1. O atualizador instala a nova cópia em %APPDATA%\\AetherisVale Launcher, aguarda o fechamento do launcher antigo e abre o novo executável a partir desse local. A instância do Minecraft permanece em Documentos\\AetherisVale por padrão e pode ser alterada nas configurações.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.1/AetherisVale-Launcher-A1.0.1.exe",
+    "sha256": "18a094e5c60c49b495e4f8ff67e893be481f00809fe2ac4f52ff761d1f0180ab",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.1"
   },
   "modpack": {
     "name": "AetherisVale 1.0.1",
     "version": "1.0.1",
     "curseForgeFileId": 8633180,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0/AetherisVale-1.0.1-A1.0.zip",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.1/AetherisVale-1.0.1-A1.0.1.zip",
     "sha256": "f39fa59df7af455c27a73428b350441a7d2ecd6b90a9eabcf24ca7540ac0c82c",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0"
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.1"
   },
   "extraMods": [],
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
