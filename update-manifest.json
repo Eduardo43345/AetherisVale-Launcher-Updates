@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T17:58:24.838Z",
+  "generatedAt": "2026-08-18T18:32:00.000Z",
   "launcher": {
     "version": "A1.0.2",
-    "notes": "",
-    "assetUrl": "",
-    "sha256": "",
+    "notes": "Versão pública A1.0.2. A atualização remove os mods oficiais antigos do pacote antes de instalar os novos, preservando mundos, configurações e mods extras opcionais. O atualizador instala a nova cópia em %APPDATA%\\AetherisVale Launcher, aguarda o fechamento do launcher antigo e abre o novo executável a partir desse local. A instância do Minecraft permanece em Documentos\\AetherisVale por padrão e pode ser alterada nas configurações.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.2/AetherisVale-Launcher-A1.0.2.exe",
+    "sha256": "26fec605748b6c5572c95752e003474dd687cb1393f9309432f07cf59f0f106d",
     "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.2"
   },
   "modpack": {
-    "name": "AetherisVale",
+    "name": "AetherisVale 1.0.2",
     "version": "1.0.2",
     "curseForgeFileId": null,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.2/AetherisVale.1.0.2.zip",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.2/AetherisVale-1.0.2-A1.0.2.zip",
     "sha256": "7f79a15b4d7e53bca95150ad70c9b34f6bc9907748bc647b63f9f768b7b0272a",
     "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.2"
   },
