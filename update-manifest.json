@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T19:45:00.000Z",
+  "generatedAt": "2026-08-19T00:15:00.000Z",
   "launcher": {
     "version": "A1.0.2",
-    "notes": "Versão pública A1.0.2 corrigida. O atualizador fecha o processo antigo antes de substituir o executável, o diálogo de confirmação aparece somente no Setup e a IA fica exclusiva da Administração. O atualizador instala a nova cópia em %APPDATA%\\AetherisVale Launcher, aguarda o fechamento do launcher antigo e abre o novo executável a partir desse local. A instância do Minecraft permanece em Documentos\\AetherisVale por padrão e pode ser alterada nas configurações.",
+    "revision": 2,
+    "notes": "A1.0.2 corrigida: versão atual visível no launcher, Site da série, notas com histórico em Ver Mais, atualização de suporte para instalações A1.0.2 anteriores, correção do EPERM ao substituir o executável e IA exclusiva da Administração.",
     "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.2/AetherisVale-Launcher-A1.0.2.exe",
-    "sha256": "f966991d275be9b8f084a88c653af7007d9533c29ba840d50fe5ca926c481d76",
+    "sha256": "ab5131775c90d6da05ce5d6d5e464493b839483f3b249dca6c2da4a5c97f9f40",
     "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.2"
   },
   "modpack": {
@@ -16,6 +17,10 @@
     "sha256": "7f79a15b4d7e53bca95150ad70c9b34f6bc9907748bc647b63f9f768b7b0272a",
     "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.2"
   },
+  "history": [
+    { "version": "A1.0.1", "title": "Atualização automática", "notes": "Atualização automática para os participantes, confirmação no Setup, cópia em AppData e atualização do launcher sem apagar os mundos." },
+    { "version": "A1.0", "title": "Primeiro release público", "notes": "Launcher AetherisVale RP com login Microsoft, Minecraft 1.21.1, NeoForge 21.1.238, modpack, RAM, resolução, Java 21 e diagnóstico." }
+  ],
   "extraMods": [],
   "policy": "Manifesto público de leitura; publicação protegida pela API do GitHub."
 }
