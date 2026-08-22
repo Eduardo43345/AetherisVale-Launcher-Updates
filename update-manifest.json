@@ -1,23 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T00:15:00.000Z",
+  "generatedAt": "2026-08-22T20:00:00.000Z",
   "launcher": {
-    "version": "A1.0.2",
-    "revision": 2,
-    "notes": "A1.0.2 corrigida: versão atual visível no launcher, Site da série, notas com histórico em Ver Mais, atualização de suporte para instalações A1.0.2 anteriores, correção do EPERM ao substituir o executável e IA exclusiva da Administração.",
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.2/AetherisVale-Launcher-A1.0.2.exe",
-    "sha256": "ab5131775c90d6da05ce5d6d5e464493b839483f3b249dca6c2da4a5c97f9f40",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.2"
+    "version": "A1.0.3",
+    "revision": 1,
+    "notes": "A1.0.3: modpack AetherisVale 1.0.3 com 150 arquivos, correção da publicação administrativa sem IA, IA opcional e minimizável somente para a Administração, atualização segura em AppData e preservação de mundos, configurações, logs e mods extras.",
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.3/AetherisVale-Launcher-A1.0.3.exe",
+    "sha256": "eee32a626a343b069f1f95414f98dd2f0d2715dc7d3da8310676c8d75360ac4f",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.3"
   },
   "modpack": {
-    "name": "AetherisVale 1.0.2",
-    "version": "1.0.2",
+    "name": "AetherisVale 1.0.3",
+    "version": "1.0.3",
     "curseForgeFileId": null,
-    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.2/AetherisVale-1.0.2-A1.0.2.zip",
-    "sha256": "7f79a15b4d7e53bca95150ad70c9b34f6bc9907748bc647b63f9f768b7b0272a",
-    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.2"
+    "assetUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/download/A1.0.3/AetherisVale-1.0.3-A1.0.3.zip",
+    "sha256": "af541519982fa720270550cdabcf2d8cee040bd79f4b61c3b26802a41fe377fe",
+    "releaseUrl": "https://github.com/Eduardo43345/AetherisVale-Launcher-Updates/releases/tag/A1.0.3"
   },
   "history": [
+    { "version": "A1.0.2", "title": "Atualizador corrigido", "notes": "Correção do EPERM no Windows, atualização de suporte para instalações A1.0.2 anteriores, Site da série, notas históricas e IA exclusiva da Administração." },
     { "version": "A1.0.1", "title": "Atualização automática", "notes": "Atualização automática para os participantes, confirmação no Setup, cópia em AppData e atualização do launcher sem apagar os mundos." },
     { "version": "A1.0", "title": "Primeiro release público", "notes": "Launcher AetherisVale RP com login Microsoft, Minecraft 1.21.1, NeoForge 21.1.238, modpack, RAM, resolução, Java 21 e diagnóstico." }
   ],
